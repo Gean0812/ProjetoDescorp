@@ -1,0 +1,7 @@
+net\javatutorial\tutorials\gfauthexample\managedbeans\RegisterView.class
+net\javatutorial\tutorials\gfauthexample\entity\Group.class
+net\javatutorial\tutorials\gfauthexample\ejb\UserEJB.class
+net\javatutorial\tutorials\gfauthexample\utils\AuthenticationUtils.class
+net\javatutorial\tutorials\gfauthexample\validators\EmailValidator.class
+net\javatutorial\tutorials\gfauthexample\managedbeans\LoginView.class
+net\javatutorial\tutorials\gfauthexample\entity\User.class
